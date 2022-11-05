@@ -3,7 +3,7 @@
 - My name's Methasit Tantiplubtong, but call me Nokia! 
 - Aspiring developer at University of British Columbia
 
-#skills#
+# skills
 - Java
 - Python
 - HTML, TailwindCSS
