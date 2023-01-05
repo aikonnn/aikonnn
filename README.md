@@ -7,5 +7,5 @@
 - Java
 - Python
 - HTML, TailwindCSS
-- Coding while going through a mental breakdown :sob:
+- ReactJS
 
